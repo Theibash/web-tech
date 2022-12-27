@@ -1,0 +1,26 @@
+/* *{
+    font size:10px;
+} */
+body{
+    /* background: linear-gradient(to left,pink,orange); */
+    background-image: url("new.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#heading{
+    background-color: greenyellow;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:navy;
+    font-size: 40px;
+}
+.paragraph{
+   background-color: aqua;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: black;
+}
+#P2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:maroon;
+}
+
