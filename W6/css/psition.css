@@ -1,0 +1,31 @@
+.container{
+    width: 1050px;
+    height: 1050px;
+    border-style: solid;  
+    position: relative;
+}
+.box{
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+}
+.Red{
+    background-color: red;
+    position:relative;
+    top:10px;
+    left:20px;
+}
+.Yellow{
+    background-color: yellow;
+    position: absolute;
+    right:10px;
+}
+.Blue{
+    background-color: blue;
+    position: sticky;
+    top:0px;
+}
+.Orange{
+    background-color: orange;
+    position: fixed;
+}
