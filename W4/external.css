@@ -1,0 +1,15 @@
+       @import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+       @import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Rubik+Puddles&display=swap');
+       h1{
+            background-color:rgb(43, 226, 125);
+            font-size:40px;
+            color:azure;
+            font-family: 'Rubik Puddles', cursive; 
+
+        }
+        p{
+            background-color:rgb(210, 30, 114);
+            font-size:30;
+            color:aqua;
+            font-family: 'Comfortaa', cursive;
+        }
