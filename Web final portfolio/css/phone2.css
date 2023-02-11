@@ -1,0 +1,22 @@
+/* Heading  */
+.heading{
+   font-size: 2rem;
+}
+/* Hobbies */
+.gallery img{
+    width:270px;
+    height:360px;
+}
+/* About */
+.about{
+    flex-direction: column;
+}
+.about h2{
+    text-align: center;
+}
+/* Message box */
+#message{
+    width:40%;
+    height:200px;
+}
+
